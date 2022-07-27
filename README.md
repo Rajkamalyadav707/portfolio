@@ -28,7 +28,6 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Electronics Enginnering",
   ]
-company: Soulber
 
 fields_of_interests:
   [
@@ -51,4 +50,16 @@ currently_learning: ["Docker, Kubernetes and React Native,Full Stack Development
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 Looking for an opportunity to explore my extreme interest in the fields of development and programming and to gain experience and industry exposure of working in a professional environment while contributing to the industry in an innovative way.
