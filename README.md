@@ -26,7 +26,7 @@ current_job: Software Development Enginnering
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Electronics Enginnering",
+    "Bachelor's in Electronics Engineering",
   ]
 
 fields_of_interests:
@@ -46,7 +46,7 @@ technical_background:
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native,Full Stack Development"]
+currently_learning: ["C++,Android,Docker, Kubernetes and React Native,Full Stack Development"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
@@ -56,6 +56,14 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 <img src=https://miro.medium.com/max/1400/1*ck4ZAQKAPreK2CFe7uBw7A.png" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src=https://miro.medium.com/max/1400/1*ck4ZAQKAPreK2CFe7uBw7A.png" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>                                      
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="max-width: 100%;">
+                                                                                                                   
+                                                                                                                   
+                                                                                                                                                                                                                               
+                                                                                                                   
 </p>
 
 
