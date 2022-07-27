@@ -83,7 +83,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 </p>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rajkamalyadav707/Rajkamalyadav707/blob/output/github-contribution-grid-snake.svg)
+
 
 
 Looking for an opportunity to explore my extreme interest in the fields of development and programming and to gain experience and industry exposure of working in a professional environment while contributing to the industry in an innovative way.
