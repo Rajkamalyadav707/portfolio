@@ -82,7 +82,69 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
                                                                                                                    
 </p>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Raj Yadav</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento" rel="stylesheet">
+<img src "images/favicon.ico" alt="favicon">
+</head>
+<body>
+  <div class="top-container">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud">
+    <div class="title-text">
+      <h1>I'm Raj.</h1>
+      <h2>a <span class="pro">pro</span>grammer.</h2>
+    </div>
+    <img class="bottom-cloud" src="images/cloud.png" alt="cloud">
+    <img class="mountain" src="images/mountain.png" alt="mountain-img">
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img src="images/profile-pic.jpg" alt="Raj-profile-img">
+      <h2>Hello.</h2>
+      <p class="intro">I’m interested in Software Development.
+        🌱 I’m currently learning Data Structure & Algorithms with C++.
+        I’m looking to collaborate on C++ projects.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="code-img" src="images/coding2.png" alt="code-img">
 
+        <h3>Design & Development</h3>
+        <p>I started learning to code when I was in my first year of college because I wanted to make my own applications. Over time, I have gained a wealth of experience designing and developing core C++ , Data Structure & Algorithms and web applications along with Android Development.</p>
+
+      </div>
+      <div class="skill-row">
+        <img class="coding-img" src="images/coding.png" alt="coding-img">
+
+        <h3>Fun Facts</h3>
+        <p>But my best skill is in Coding & Development. I am Undergraduate Student with Electronics Enginnering. Always ready to explore and learn new technology to solve real world Problems.</p>
+
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>If you love Coding as much as I do.</h3>
+      <p class="contact-message">Love Coding as much as I do? Let's talk about how awesome they are! We can code while we eat hot wings!</p>
+      <a class="btn" href="mailto:rajkamalyadav212121@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/in/raj-yadav-219641192/">LinkedIn</a>
+    <a class="footer-link" href="https://github.com/Rajkamalyadav707">Github</a>
+    <p class="copyright">Made with <img class ="heart" src="images/heart.png" alt="heart-img" /> by Raj Yadav</p>
+  </div>
+</body>
+
+</html>
 
 
 
